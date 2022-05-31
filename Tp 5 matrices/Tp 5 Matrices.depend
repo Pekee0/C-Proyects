@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653263015 source:c:\users\usuario\documents\facultad\programacion\practicos\tp 5 matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1651453951 source:c:\users\usuario\documents\facultad\programacion\practicos\tp 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<string.h>
+
+1490112217 c:\users\usuario\documents\facultad\programacion\practicos\tp 4\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\usuario\documents\facultad\programacion\practicos\tp 4\pila.c
+	"pila.h"
+
+1490112217 source:c:\users\usuario\documents\facultad\programacion\practicos\tp 4 arreglos\pila.c
+	"pila.h"
+
+1490112217 c:\users\usuario\documents\facultad\programacion\practicos\tp 4 arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1652366219 source:c:\users\usuario\documents\facultad\programacion\practicos\tp 4 arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<string.h>
+
