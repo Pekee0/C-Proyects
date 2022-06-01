@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654039567 source:c:\users\usuario\documents\facultad\programacion\practicos\tp 7 estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
